@@ -1,0 +1,9 @@
+{
+    "imports": {
+      "@coppel/root-config": "//localhost:9000/coppel-root-config.js",
+      "@single-spa/welcome-1": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
+      "@single-spa/welcome-2": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
+      "@single-spa/welcome-3": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
+      "@coppel/prueba-angular2": "//localhost:4200/main.js"
+    }
+}
